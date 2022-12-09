@@ -1,6 +1,18 @@
 <div align='center' ><b><font size='10'>Here is XINXIN:tiger: <b></font></div>
 
+  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif" width="500"/>
+</div>  
+  
 
+  
+:email:connect to me kirihsia@gmail.com
+
+  
+  
+:octocat:
+  
 <!--
 **kirihsia/kirihsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
